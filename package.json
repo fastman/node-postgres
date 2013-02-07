@@ -1,5 +1,5 @@
 { "name": "pg-fastman",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "description": "PostgreSQL client - pure javascript & libpq with the same API - fork",
   "keywords" : ["postgres", "pg", "libpq", "postgre", "database", "rdbms"],
   "homepage": "http://github.com/brianc/node-postgres",
