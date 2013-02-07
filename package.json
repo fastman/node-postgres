@@ -5,7 +5,7 @@
   "homepage": "http://github.com/brianc/node-postgres",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/brianc/node-postgres.git"
+    "url" : "git://github.com/fastman/node-postgres.git"
   },
   "author" : "Brian Carlson <brian.m.carlson@gmail.com>",
   "main" : "./lib",
